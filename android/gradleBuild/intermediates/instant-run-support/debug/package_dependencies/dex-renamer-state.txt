@@ -1,0 +1,4 @@
+#Thu Oct 05 15:09:26 CEST 2017
+base.0=/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_64bb20c77a9d5781256a16066d7d95afd41b6093
+renamed.0=classes.dex
+file.0=/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_64bb20c77a9d5781256a16066d7d95afd41b6093/classes.dex

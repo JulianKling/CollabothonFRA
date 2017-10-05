@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_action_info.png",
+        "source": "/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/res/drawable-mdpi/ic_action_info.png"
+    }
+]

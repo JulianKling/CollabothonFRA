@@ -1,0 +1,7 @@
+#Thu Oct 05 21:05:16 CEST 2017
+base.0=/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a4852d71e1d6db15a2835f19f7f192e74f88c9b8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f1437c308918048523583ad8169e8b59cbb28a7/classes.dex
+base.1=/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f1437c308918048523583ad8169e8b59cbb28a7
+file.0=/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a4852d71e1d6db15a2835f19f7f192e74f88c9b8/classes.dex

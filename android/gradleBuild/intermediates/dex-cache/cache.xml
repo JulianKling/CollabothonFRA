@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8f1437c308918048523583ad8169e8b59cbb28a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd821a295f27e6424d81d80478b723deff5a48e7">
+        <dex dex="/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a4852d71e1d6db15a2835f19f7f192e74f88c9b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/juliankling/.android/build-cache/ddabac9b74ded43d7cc30855946d3a2f73ce98f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ba6a597bcf3b82bee642e99c7b02bf7b41b69c6">
+        <dex dex="/Users/juliankling/Documents/GitHub/android/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_64bb20c77a9d5781256a16066d7d95afd41b6093/classes.dex" />
+    </item>
+
+</items>
